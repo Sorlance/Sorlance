@@ -11,9 +11,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+-->      
 
-<div align="center>
+<div align="center">
+ 
 ![](https://raw.githubusercontent.com/Sorlance/github-stats/master/generated/overview.svg)
-![](https://raw.githubusercontent.com/Sorlance/github-stats/master/generated/languages.svg)
+![](https://github.com/Sorlance/github-stats/blob/master/generated/languages.svg)
+
 </div>
