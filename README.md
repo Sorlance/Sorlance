@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Sorlance's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Sorlance&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Sorlance's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Sorlance)](https://github.com/anuraghazra/github-readme-stats)
