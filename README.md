@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 -->
 
 <div align="center>
-  ![](https://raw.githubusercontent.com/Sorlance/github-stats/master/generated/overview.svg#gh-light-mode-only)
-  ![](https://raw.githubusercontent.com/Sorlance/github-stats/master/generated/languages.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/Sorlance/github-stats/master/generated/overview.svg)
+![](https://raw.githubusercontent.com/Sorlance/github-stats/master/generated/languages.svg)
 </div>
